@@ -83,8 +83,8 @@ heart-disease-prediction/
 
 ## Team and my role
 
-This was a team project of four students. I led **data preprocessing and exploratory data analysis (EDA)** and also contributed to model tuning and evaluation. Teammates led model training, the report, and the presentation.
+This was a team project of four students. I led **data preprocessing and exploratory data analysis (EDA)** and also contributed to model tuning and evaluation.
 
 ## Use of AI
 
-The code and text in this project were written with the help of AI tools. I reviewed the work, re-ran the notebook to confirm every number in this README, and I am rewriting key parts by hand to make sure I understand them.
+The code and text in this project were written with the help of AI tools. I reviewed the work, re-ran the notebook to confirm every number in this README, and I can explain every step of the analysis.
